@@ -16,6 +16,7 @@ public class TestProduct {
      */
     public static void main(String[] args) {
         System.out.println("Produto em execução...");
+        //TODO Incluir produto aqui
         System.out.println("Produto encerrando...");
     }
     
